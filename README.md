@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santosh Shelar</h1>
+<h1 align="center">Hi 👋, I'm Santosh</h1>
 <h3 align="center">My goal is to be a catalyst for positive change in the learning landscape</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="learn-with-santosh" /> </p>
