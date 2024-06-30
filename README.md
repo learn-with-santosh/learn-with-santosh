@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/learn-with-santosh](https://github.com/learn-with-santosh)
 
-- 📝 I regularly share post on [https://www.instagram.com/learn.with.santosh/](https://www.instagram.com/learn.with.santosh/)
+- 📝 I regularly share post on [https://www.instagram.com/learn.with.santosh/](https://x.com/learn_with_san)
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,C#,ASP.NET**
 
