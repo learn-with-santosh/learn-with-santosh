@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="learn-with-santosh" /> </p>
 
 
-- 🌱 I’m currently learning **Python, Flutter**
+- 🌱 I’m currently learning **Python, LLM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/learn-with-santosh](https://github.com/learn-with-santosh)
 
