@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learn-with-santosh&show_icons=true&locale=en" alt="learn-with-santosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-with-santosh&" alt="learn-with-santosh" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=learn-with-santosh&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+
