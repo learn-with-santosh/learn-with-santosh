@@ -58,49 +58,9 @@ const santosh = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake.svg" />
-</picture>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- Project Card 1 -->
-<a href="https://github.com/learn-with-santosh/port-manager-application">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=port-manager-application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-<!-- Project Card 2 -->
-<a href="https://github.com/learn-with-santosh/PROJECT_2">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-<!-- Project Card 3 -->
-<a href="https://github.com/learn-with-santosh/PROJECT_3">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-<!-- Project Card 4 -->
-<a href="https://github.com/learn-with-santosh/PROJECT_4">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/learn-with-santosh?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Arsenal
 
