@@ -156,24 +156,6 @@ const santosh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=learn-with-santosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest blog posts -->
-- 🚀 Coming soon...
-- 📝 Check out my [Hashnode](https://hashnode.com/@iamsantoshshelar) for latest articles!
-<!-- BLOG-POST-LIST:END -->
-https://santoshshelar.medium.com/feed
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -182,11 +164,19 @@ https://santoshshelar.medium.com/feed
 
 ---
 
-## 😂 Random Dev Meme
+## 😂 Random Dev Meme/Joke
 
 <div align="center">
-  <img src="https://randommeme-five.vercel.app/" width="500" alt="Random Dev Meme"/>
+  <picture>
+    <source srcset="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" />
+    <source srcset="https://v2.jokeapi.dev/joke/Programming?format=svg" />
+    <img src="https://v2.jokeapi.dev/joke/Programming?format=svg" width="500" height="auto" alt="Random Dev Meme/Joke" loading="lazy" />
+  </picture>
 </div>
+
+<p align="center">
+  <i>😂 Reload for fresh dev humor! Sources: Readme Jokes & JokeAPI</i>
+</p>
 
 ---
 
@@ -209,30 +199,11 @@ https://santoshshelar.medium.com/feed
 <a href="https://hashnode.com/@iamsantoshshelar" target="_blank">
   <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
 
 ---
 
-## 🎯 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-🕐 I'm most productive during Evening hours
-
-💻 Languages I code in:
-C#          ████████████░░░░░░░░░░░░░   48.25%
-JavaScript  ██████████░░░░░░░░░░░░░░░   28.14%
-Python      ████░░░░░░░░░░░░░░░░░░░░░   12.30%
-HTML/CSS    ███░░░░░░░░░░░░░░░░░░░░░░   08.45%
-Others      █░░░░░░░░░░░░░░░░░░░░░░░░   02.86%
-```
-<!--END_SECTION:waka-->
-
----
 
 ## 💰 Support My Work
 
@@ -246,20 +217,6 @@ If my content or projects have helped you, consider supporting me! ☕
 <a href="https://www.paypal.com/paypalme/YOUR_PAYPAL" target="_blank">
   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
 </a>
-
-</div>
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-💼 **Open for opportunities and collaborations!**
-
-📧 Email: **your.email@example.com**
-
-💬 *"Education is not the filling of a pail, but the lighting of a fire."* - W.B. Yeats
 
 </div>
 
