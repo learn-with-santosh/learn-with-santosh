@@ -1,44 +1,283 @@
-<h1 align="center">Hi 👋, I'm Santosh</h1>
-<h3 align="center">My goal is to be a catalyst for positive change in the learning landscape</h3>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santosh%20Shelar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Catalyst%20for%20Positive%20Change%20in%20Learning&descAlignY=52&descSize=18"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile%20views&color=0e75b6&style=flat" alt="learn-with-santosh" /> </p>
+<!-- Animated Intro -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=650&height=100&lines=Full+Stack+Developer+%7C+Educator+%7C+Content+Creator;Empowering+Learners+Through+Technology;Building+the+Future%2C+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
+  </a>
+</div>
 
-
-- 🌱 I’m currently learning **Python, LLM**
-
-- 👨‍💻 All of my projects are available at [https://github.com/learn-with-santosh](https://github.com/learn-with-santosh)
-
-- 📝 I regularly share post on https://x.com/learn_with_san
-
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,C#,ASP.NET**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/learn_with_san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="learn_with_san" height="30" width="40" /></a>
-<a href="https://www.facebook.com/learnwithsantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/learnwithsantosh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/learn.with.santosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/learn.with.santosh/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@iamsantoshshelar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@iamsantoshshelar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@learnwithsantoshshelar?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@learnwithsantoshshelar?sub_confirmation=1" height="30" width="40" /></a>
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/learn-with-santosh?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/learn-with-santosh?label=Stars&style=for-the-badge&color=6366f1" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.youtube.com/learnwithsantoshshelar?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCCzlSaBembdZarnZg4TmJRQ?style=for-the-badge&logo=youtube&label=Subscribe&color=FF0000" alt="YouTube" />
+  </a>
+  <a href="https://x.com/learn_with_san">
+    <img src="https://img.shields.io/twitter/follow/learn_with_san?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=learn-with-santosh&show_icons=true&locale=en&layout=compact" alt="learn-with-santosh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=learn-with-santosh&show_icons=true&locale=en" alt="learn-with-santosh" /></p>
+<!-- About Me Section -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-with-santosh&" alt="learn-with-santosh" /></p>
+## 🧑‍💻 About Me
+
+```javascript
+const santosh = {
+    pronouns: "He" | "Him",
+    location: "India 🇮🇳",
+    currentFocus: "Python & LLM",
+    funFact: "I debug with console.log() 😄",
+    
+    skills: {
+        languages: ["C#", "JavaScript", "TypeScript", "Python", "Dart"],
+        frontend: ["HTML5", "CSS3", "Angular", "Bootstrap", "Flutter"],
+        backend: ["ASP.NET", ".NET Core", "Node.js"],
+        databases: ["SQL Server", "MySQL"],
+        tools: ["Git", "VS Code", "Postman", "Azure"]
+    },
+    
+    currentlyLearning: ["Python", "LLM", "AI/ML"],
+    askMeAbout: ["Web Dev", "C#", "ASP.NET", "Career Guidance"],
+    
+    goal: "To be a catalyst for positive change in learning! 🚀"
+};
+```
+
+<br clear="both">
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/github-snake.svg" />
+</picture>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- Project Card 1 -->
+<a href="https://github.com/learn-with-santosh/port-manager-application">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=port-manager-application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+</a>
+
+<!-- Project Card 2 -->
+<a href="https://github.com/learn-with-santosh/PROJECT_2">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+</a>
+
+<!-- Project Card 3 -->
+<a href="https://github.com/learn-with-santosh/PROJECT_3">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+</a>
+
+<!-- Project Card 4 -->
+<a href="https://github.com/learn-with-santosh/PROJECT_4">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=learn-with-santosh&repo=PROJECT_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+</a>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/learn-with-santosh?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 👨‍💻 Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Databases
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=learn-with-santosh&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&ring_color=6366F1" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-with-santosh&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-with-santosh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=6366F1" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=learn-with-santosh&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=learn-with-santosh&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=learn-with-santosh&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=learn-with-santosh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
 
-  ## 💰 You can support me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/santoshshelar)
+---
 
+## 📝 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- This section will be automatically updated with your latest blog posts -->
+- 🚀 Coming soon...
+- 📝 Check out my [Hashnode](https://hashnode.com/@iamsantoshshelar) for latest articles!
+<!-- BLOG-POST-LIST:END -->
+https://santoshshelar.medium.com/feed
+---
 
+## 💡 Random Dev Quote
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 😂 Random Dev Meme
+
+<div align="center">
+  <img src="https://randommeme-five.vercel.app/" width="500" alt="Random Dev Meme"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/learn_with_san" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.youtube.com/@learnwithsantoshshelar?sub_confirmation=1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.instagram.com/learn.with.santosh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/learnwithsantosh" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://hashnode.com/@iamsantoshshelar" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+## 🎯 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+🕐 I'm most productive during Evening hours
+
+💻 Languages I code in:
+C#          ████████████░░░░░░░░░░░░░   48.25%
+JavaScript  ██████████░░░░░░░░░░░░░░░   28.14%
+Python      ████░░░░░░░░░░░░░░░░░░░░░   12.30%
+HTML/CSS    ███░░░░░░░░░░░░░░░░░░░░░░   08.45%
+Others      █░░░░░░░░░░░░░░░░░░░░░░░░   02.86%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 💰 Support My Work
+
+<div align="center">
+
+If my content or projects have helped you, consider supporting me! ☕
+
+<a href="https://buymeacoffee.com/santoshshelar" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+</a>
+<a href="https://www.paypal.com/paypalme/YOUR_PAYPAL" target="_blank">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+</a>
+
+</div>
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+💼 **Open for opportunities and collaborations!**
+
+📧 Email: **your.email@example.com**
+
+💬 *"Education is not the filling of a pail, but the lighting of a fire."* - W.B. Yeats
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/ocean.gif" alt="Snake Animation" width="100%"/>
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- Visitor Counter Animation -->
+<div align="center">
+  
+  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
+```
