@@ -174,9 +174,6 @@ If my content or projects have helped you, consider supporting me! ☕
 <a href="https://buymeacoffee.com/santoshshelar" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
-<a href="https://www.paypal.com/paypalme/YOUR_PAYPAL" target="_blank">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-</a>
 
 </div>
 
