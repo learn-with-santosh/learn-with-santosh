@@ -1,178 +1,166 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santosh%20Shelar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Catalyst%20for%20Positive%20Change%20in%20Learning&descAlignY=52&descSize=18"/>
-
-<!-- Animated Intro -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=650&height=100&lines=Full+Stack+Developer+%7C+Educator+%7C+Content+Creator;Empowering+Learners+Through+Technology;Building+the+Future%2C+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
-  </a>
+
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Santosh%20Shelar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20AI%20Tooling%20Builder%20%E2%80%A2%20Educator&descSize=16&descAlignY=57&descColor=a5b4fc"/>
+
 </div>
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/learn-with-santosh?label=Followers&style=for-the-badge&color=6366f1" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/learn-with-santosh?label=Stars&style=for-the-badge&color=6366f1" alt="Stars" />
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A5B4FC&center=true&vCenter=true&width=700&height=60&lines=14%2B+years+turning+ideas+into+production+systems.;Angular+%7C+Node.js+%7C+PHP+%7C+MySQL+%7C+Local+AI+(Ollama);Building+AI+tools+that+actually+ship+%F0%9F%9A%80;@learn_with_san+on+X+%E2%80%94+Dev+content+for+real+devs" alt="Typing SVG" />
+</div>
 
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://www.youtube.com/learnwithsantoshshelar?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCCzlSaBembdZarnZg4TmJRQ?style=for-the-badge&logo=youtube&label=Subscribe&color=FF0000" alt="YouTube" />
-  </a>
-  <a href="https://x.com/learn_with_san">
-    <img src="https://img.shields.io/twitter/follow/learn_with_san?style=for-the-badge&logo=x&color=1DA1F2" alt="Twitter" />
-  </a>
-</p>
+<br/>
 
----
-
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-## 🧑‍💻 About Me
-
-```javascript
-const santosh = {
-    pronouns: "He" | "Him",
-    location: "India 🇮🇳",
-    currentFocus: "Python & LLM",
-    funFact: "I debug with console.log() 😄",
-    
-    skills: {
-        languages: ["C#", "JavaScript", "TypeScript", "Python", "Dart"],
-        frontend: ["HTML5", "CSS3", "Angular", "Bootstrap", "Flutter"],
-        backend: ["ASP.NET", ".NET Core", "Node.js"],
-        databases: ["SQL Server", "MySQL"],
-        tools: ["Git", "VS Code", "Postman", "Azure"]
-    },
-    
-    currentlyLearning: ["Python", "LLM", "AI/ML"],
-    askMeAbout: ["Web Dev", "C#", "ASP.NET", "Career Guidance"],
-    
-    goal: "To be a catalyst for positive change in learning! 🚀"
-};
-```
-
-<br clear="both">
+<!-- STATS ROW -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=learn-with-santosh&label=Profile+Views&color=6366f1&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/learn-with-santosh?label=Followers&style=flat-square&color=6366f1&labelColor=1e1b4b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-14%2B%20Years-6366f1?style=flat-square&labelColor=1e1b4b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-6366f1?style=flat-square&labelColor=1e1b4b&logo=googlemaps&logoColor=white" />
+</div>
 
 ---
 
+## ⚡ Who Am I
 
+I'm a **Senior Full-Stack Developer** with **14+ years** of experience building and shipping software across enterprise and indie projects. I work primarily with **Angular 19, Node.js/Express, PHP, and MySQL** — and I've been deep in the **local AI rabbit hole** (Ollama-first, always).
 
+By day I build systems. By night I build tools I wish existed. I run multiple web properties, publish daily on X, and create developer content that cuts through the noise.
 
+> *"Don't just consume AI — build with it, locally, privately, on your own terms."*
 
-## 🛠️ Tech Arsenal
+---
+
+## 🔨 What I'm Building
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| **[ContentEnginePro](https://github.com/learn-with-santosh)** — Django AI content platform | Django · Ollama · SSE | 🟢 Active |
+| **[CodeShot](https://codeshot.in)** — Daily JS challenge platform | PHP · MySQL · Streak Engine | 🟢 Active |
+| **[CalculatorJunction](https://calculatorjunction.in)** — 71-tool calculator suite | PHP · SEO-optimized | 🟢 Active |
+| **[FinanceOS](https://github.com/learn-with-santosh)** — Personal finance dashboard | Angular 19 · Node.js · Sequelize | 🔨 Building |
+| **[ReplyReal](https://github.com/learn-with-santosh)** — AI reply Chrome extension for X | Manifest V3 · Ollama | 🔨 Building |
+
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Backend**
 
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Data**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**AI / Local LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-7B|13B-6366f1?style=for-the-badge&labelColor=1e1b4b)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&labelColor=1e1b4b)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=learn-with-santosh&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117&ring_color=6366F1" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-with-santosh&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=learn-with-santosh&show_icons=true&count_private=true&hide_border=true&title_color=a5b4fc&icon_color=a5b4fc&text_color=e2e8f0&bg_color=0f0c29&ring_color=6366f1&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learn-with-santosh&layout=compact&hide_border=true&title_color=a5b4fc&text_color=e2e8f0&bg_color=0f0c29&langs_count=8" />
 </div>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-with-santosh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&sideLabels=6366F1" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=learn-with-santosh&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
----
-
-## 💡 Random Dev Quote
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=learn-with-santosh&theme=tokyonight&hide_border=true&background=0f0c29&stroke=6366F1&ring=a5b4fc&fire=f472b6&currStreakLabel=a5b4fc&sideLabels=a5b4fc&dates=94a3b8" />
 </div>
 
 ---
 
-## 😂 Random Dev Meme/Joke
+## 📈 Contribution Activity
 
-<div align="center">
-  <picture>
-    <source srcset="https://readme-jokes.vercel.app/api?hideBorder=true&theme=tokyonight" />
-    <source srcset="https://v2.jokeapi.dev/joke/Programming?format=svg" />
-    <img src="https://v2.jokeapi.dev/joke/Programming?format=svg" width="500" height="auto" alt="Random Dev Meme/Joke" loading="lazy" />
-  </picture>
-</div>
-
-<p align="center">
-  <i>😂 Reload for fresh dev humor! Sources: Readme Jokes & JokeAPI</i>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=learn-with-santosh&bg_color=0f0c29&color=a5b4fc&line=6366f1&point=f472b6&area=true&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-<a href="https://x.com/learn_with_san" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.youtube.com/@learnwithsantoshshelar?sub_confirmation=1" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="https://www.instagram.com/learn.with.santosh/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.facebook.com/learnwithsantosh" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://hashnode.com/@iamsantoshshelar" target="_blank">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=learn-with-santosh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
 
+## ✍️ Latest Content
 
+> I publish daily on **[@learn_with_san](https://x.com/learn_with_san)** — practical AI tooling, Angular tips, and real-world dev lessons.
 
-## 💰 Support My Work
+📰 **Medium & Dev.to** — Long-form technical articles
+🐦 **X (Twitter)** — Daily dev insights, builds-in-public
+📺 **YouTube** — Tutorials and project walkthroughs
+📘 **Facebook** — [Learn With Santosh](https://facebook.com/learnwithsantosh) page for broader community
+
+---
+
+## 🤝 Connect
 
 <div align="center">
 
-If my content or projects have helped you, consider supporting me! ☕
+<a href="https://x.com/learn_with_san">
+  <img src="https://img.shields.io/badge/@learn__with__san-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@learnwithsantoshshelar">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/learn.with.santosh/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/santoshshelar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@santoshshelar">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://dev.to/santoshshelar">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
 
-<a href="https://buymeacoffee.com/santoshshelar" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+</div>
+
+---
+
+## ☕ Support
+
+<div align="center">
+
+If my repos or content saved you time — a coffee keeps the builds going.
+
+<a href="https://buymeacoffee.com/santoshshelar">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
 </div>
@@ -183,15 +171,8 @@ If my content or projects have helped you, consider supporting me! ☕
   <img src="https://github.com/learn-with-santosh/learn-with-santosh/blob/output/ocean.gif" alt="Snake Animation" width="100%"/>
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
-<!-- Visitor Counter Animation -->
 <div align="center">
-  
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
+  <sub>Built with intent. Shipped with obsession. — Santosh Shelar</sub>
 </div>
-```
