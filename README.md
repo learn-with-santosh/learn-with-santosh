@@ -27,7 +27,7 @@
 
 ## ⚡ Who Am I
 
-I'm a **Senior Full-Stack Developer** with **14+ years** of experience building and shipping software across enterprise and indie projects. My stack of choice is **Angular 19, Node.js/Express, PHP, and MySQL** — and I've gone deep into **local AI** (Ollama-first, always).
+I'm a **Senior Manager** with **14+ years** of experience building and shipping software across enterprise and indie projects. My stack of choice is **Angular 19, Node.js/Express, PHP, and MySQL** — and I've gone deep into **local AI** (Ollama-first, always).
 
 By day I build production systems. By night I build tools I wish existed. I run multiple web properties, publish daily on X, and create developer content that skips the fluff.
 
